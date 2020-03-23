@@ -1,16 +1,3 @@
-'''
-
-HW 3
-CS 5001
-Fall 2019
-Soumeng Chea
-
-
-
-I use this site to navigate my codes in this homework assignment:
-https://www.reddit.com/r/learnpython/comments/ay8qwd/python_pig_dice_game/
-'''
-
 import random
 
 def main():
